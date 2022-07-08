@@ -1,0 +1,13 @@
+---
+title: "SYMBALS: A Systematic Review Methodology Blending Active Learning and Snowballing"
+collection: publications
+permalink: /publication/symbals-systematic-review-methodology-blending-active-learning-and-snowballing
+excerpt: 'Research output has grown significantly in recent years, often making it difficult to see the forest for the trees. Systematic reviews are the natural scientific tool to provide clarity in these situations. However, they are protracted processes that require expertise to execute. These are problematic characteristics in a constantly changing environment. To solve these challenges, we introduce an innovative systematic review methodology: SYMBALS. SYMBALS blends the traditional method of backward snowballing with the machine learning method of active learning. We applied our methodology in a case study, demonstrating its ability to swiftly yield broad research coverage. We proved the validity of our method using a replication study, where SYMBALS was shown to accelerate title and abstract screening by a factor of 6. Additionally, four benchmarking experiments demonstrated the ability of our methodology to outperform the state-of-the-art systematic review methodology FAST.'
+date: 2021-05-28
+venue: 'Frontiers in Research Metrics and Analytics 6'
+paperurl: 'https://www.frontiersin.org/articles/10.3389/frma.2021.685591/full'
+citation: 'Max van Haastrecht, <b>Injy Sarhan</b>, Bilge Yigit Ozkan, Matthieu Brinkhuis, and Marco Spruit. <i>"SYMBALS: A Systematic Review Methodology Blending Active Learning and Snowballing."</i>, Frontiers in research metrics and analytics 6 (2021).'
+---
+Research output has grown significantly in recent years, often making it difficult to see the forest for the trees. Systematic reviews are the natural scientific tool to provide clarity in these situations. However, they are protracted processes that require expertise to execute. These are problematic characteristics in a constantly changing environment. To solve these challenges, we introduce an innovative systematic review methodology: SYMBALS. SYMBALS blends the traditional method of backward snowballing with the machine learning method of active learning. We applied our methodology in a case study, demonstrating its ability to swiftly yield broad research coverage. We proved the validity of our method using a replication study, where SYMBALS was shown to accelerate title and abstract screening by a factor of 6. Additionally, four benchmarking experiments demonstrated the ability of our methodology to outperform the state-of-the-art systematic review methodology FAST.
+
+[Download paper here](https://www.frontiersin.org/articles/10.3389/frma.2021.685591/full).
