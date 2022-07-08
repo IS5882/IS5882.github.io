@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 This is Injy Sarhan's home on the web! 
-As you can see it is still under construction. In the mean time feel free to e-mail me on injy.sarhan@hotmail.com 
+As you can see it is still under construction. In the mean time feel free to e-mail me at injy.sarhan@hotmail.com 
