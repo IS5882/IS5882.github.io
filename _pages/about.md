@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Injy Sarhan's home on the web!
+This is Injy Sarhan's home on the web! 
+As you can see it is still under construction. In the mean time feel free to e-mail me on injy.sarhan@hotmail.com 
