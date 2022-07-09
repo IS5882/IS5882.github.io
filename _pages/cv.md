@@ -29,12 +29,26 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Python
+  * Java
+  * SQL
+  * Matlab
+  * JavaScript
+  * C
+  * C#
+  * Bash Script
+* Tools
+  * TensorFlow
+  * PyTorch
+  * Keras
+  * StreamLit
+  * Scikit Learn
+  * SpaCy
+  * XGBoost
+  * Pandas
+  * HuggingFace
+  * Git
 
 Publications
 ======
