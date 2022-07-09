@@ -37,12 +37,6 @@ Work & Experience
 * Software Developer Intern, Al-Ahram Management and Computer Center, Egypt, Jun-Jul 2011; Jun-Jul 2012
   * Obtained a solid understanding of the software development process by learning the different phases involved: creating, testing and deployment.
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Technical Skills
 ======
 * Languages
@@ -50,21 +44,27 @@ Technical Skills
 * Tools
   * TensorFlow, PyTorch, Keras, StreamLit, Scikit Learn, SpaCy, XGBoost, Pandas, HuggingFace, Git
 
-Talks & Presentations
+Extracurricular Activities
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Google Get Ahead Participant, 2020
+* AIESEC Volunteer, China, 2014
 
 Reviewed Publications
 ======
 * 2019: International Conference on Information Systems
 * 2017: Decision Analytics, Springer
 
-Extracurricular Activities
+Teaching
 ======
-* Google Get Ahead Participant, 2020
-* AIESEC Volunteer, China, 2014
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks & Presentations
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
