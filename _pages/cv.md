@@ -37,6 +37,12 @@ Work & Experience
 * Software Developer Intern, Al-Ahram Management and Computer Center, Egypt, Jun-Jul 2011; Jun-Jul 2012
   * Obtained a solid understanding of the software development process by learning the different phases involved: creating, testing and deployment.
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Languages
@@ -79,11 +85,5 @@ Extracurricular Activities
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
