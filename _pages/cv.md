@@ -60,6 +60,12 @@ Skills
   * HuggingFace
   * Git
 
+Talks & Presentations
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 Reviewed Publications
 ======
 * 2019: International Conference on Information Systems
@@ -74,12 +80,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
