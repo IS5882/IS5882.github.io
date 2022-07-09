@@ -50,6 +50,11 @@ Skills
   * HuggingFace
   * Git
 
+Reviewed Publications
+======
+* 2019: International Conference on Information Systems
+* 2017: Decision Analytics, Springer
+
 Publications
 ======
   <ul>{% for post in site.publications %}
