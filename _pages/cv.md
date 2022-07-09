@@ -43,28 +43,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
+Technical Skills
 ======
 * Languages
-  * Python
-  * Java
-  * SQL
-  * Matlab
-  * JavaScript
-  * C
-  * C#
-  * Bash Script
+  * Python, Java, SQL, Matlab, JavaScript, C, C#, Bash Script
 * Tools
-  * TensorFlow
-  * PyTorch
-  * Keras
-  * StreamLit
-  * Scikit Learn
-  * SpaCy
-  * XGBoost
-  * Pandas
-  * HuggingFace
-  * Git
+  * TensorFlow, PyTorch, Keras, StreamLit, Scikit Learn, SpaCy, XGBoost, Pandas, HuggingFace, Git
 
 Talks & Presentations
 ======
