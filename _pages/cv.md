@@ -55,6 +55,11 @@ Reviewed Publications
 * 2019: International Conference on Information Systems
 * 2017: Decision Analytics, Springer
 
+Extracurricular Activities
+======
+* Google Get Ahead Participant, 2020
+* AIESEC Volunteer, China, 2014
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -72,7 +77,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
