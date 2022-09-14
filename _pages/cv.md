@@ -31,7 +31,7 @@ Work & Experience
     * Digital Logic Design
   * Supervised various student projects in different subjects.
 
-* Lecturer (Women in Computer Science Summer School), University of Bremen, Germany, Aug 2017; Aug 2018
+* Guest Lecturer, University of Bremen, Germany, Aug 2017; Aug 2018
   * Delivered engaging courses to women from different backgrounds and cultures, who are interested in learning Computer Science, teaching them “Database Design using MySQL” and “Linux CLI and Bash Scripting”.
 
 * Software Developer Intern, Al-Ahram Management and Computer Center, Egypt, Jun-Jul 2011; Jun-Jul 2012
