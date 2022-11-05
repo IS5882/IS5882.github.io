@@ -10,7 +10,12 @@ redirect_from:
 
 This is Injy Sarhan's home on the web!
 
-As you can see it is still under construction. In the meantime, feel free to e-mail me at [injy.sarhan@hotmail.com](mailto:injy.sarhan@hotmail.com).
+TLDR: NLP enthusaist, currently working on my Ph.D. from Utrecht University, The Netherlands. 
+My work in mainly focused on Open Information Extraction for Knowledge Representation.
+
+
+
+
 
 
 
