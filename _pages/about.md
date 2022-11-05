@@ -10,7 +10,7 @@ redirect_from:
 
 This is Injy Sarhan's home on the web!
 
-*TL,DR* NLP enthusaist, currently working on my Ph.D. from Utrecht University, The Netherlands. 
+**TL;DR** NLP enthusaist, currently working on my Ph.D. from Utrecht University, The Netherlands. 
 My work in mainly focused on Open Information Extraction for Knowledge Representation.
 
 
