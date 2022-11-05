@@ -10,8 +10,10 @@ redirect_from:
 
 This is Injy Sarhan's home on the web!
 
-**TL;DR** NLP enthusaist, currently working on my Ph.D. from Utrecht University, The Netherlands. 
-My work in mainly focused on Open Information Extraction for Knowledge Representation.
+**TL;DR** --> An NLP enthusaist, currently working on my Ph.D. from Utrecht University, The Netherlands. 
+My work is mainly focused on Open Information Extraction for Knowledge Representation, but I am also interested in several other stuff like improving robustness and generalization for pre-trained language models and knowledge graphs.
+
+Check my publications for more info. on my work!
 
 
 
