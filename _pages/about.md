@@ -17,8 +17,8 @@ Check my publications for more info. on my work!
 
 
 
-**Are you considering completing your Master's Thesis and looking for a supervisor?**
- I'd be delighted to discuss the possibility of working together. Please don't hesitate to reach out via email to learn more."
+**Are you considering completing your Master's Thesis and looking for a supervisor?** -->
+ I'd be delighted to discuss the possibility of working together. Please don't hesitate to reach out via email to learn more.
 
 
 
