@@ -19,7 +19,7 @@ My work is mainly focused on Open Information Extraction for Knowledge Represent
 **Are you considering completing your Master's Thesis and looking for a supervisor?** -->
  I'd be delighted to discuss the possibility of working together. Please don't hesitate to reach out via email to learn more. In the meantine, you can check my publications for more info. on my work!
 
-**Read my latest article on Meduim":
+**Read my latest article on Meduim:**
 [ChatGPT: A sneak peek into its abilities, limitations, and how to make the best use of it.](https://medium.com/@injysarhan/chatgpt-a-sneak-peek-into-its-abilities-limitation-and-how-to-make-the-best-use-of-it-ae180094139b)
 
 
